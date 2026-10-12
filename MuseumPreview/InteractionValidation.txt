@@ -1,0 +1,10 @@
+PASS - Unity Play Mode interaction validation
+Gallery initial state
+Ship rotation and original-orientation reset
+Cabin activation, camera entry and return
+Seating, instruments and capstan points of interest
+Three story pages
+Helmet rotation, zoom and original-scale reset
+Three station completion
+Physics rays hit five gallery exhibit targets
+Quest 3 and SteamVR hardware were not available for this validation.

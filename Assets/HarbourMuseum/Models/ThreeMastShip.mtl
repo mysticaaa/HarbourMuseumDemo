@@ -1,0 +1,79 @@
+# Material colours for original teaching models
+newmtl Ship_Navy
+Kd 0.028 0.073 0.115
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Ship_Keel
+Kd 0.025 0.036 0.041
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Exhibit_Brass
+Kd 0.73 0.48 0.18
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Ship_DarkTimber
+Kd 0.18 0.105 0.052
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Ship_DeckPlank
+Kd 0.67 0.435 0.22
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Exhibit_Recess
+Kd 0.018 0.023 0.025
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Ship_Iron
+Kd 0.075 0.09 0.1
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Exhibit_Glass
+Kd 0.105 0.33 0.37
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Ship_DeckWood
+Kd 0.49 0.265 0.105
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Ship_Canvas
+Kd 0.89 0.815 0.635
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Ship_CanvasSeam
+Kd 0.64 0.55 0.37
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Ship_Rope
+Kd 0.29 0.22 0.135
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Ship_RedEnsign
+Kd 0.52 0.075 0.045
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+

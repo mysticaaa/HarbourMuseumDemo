@@ -1,0 +1,2 @@
+FAILED: System.ArgumentException: Unknown museum operation
+  at HarbourMuseum.EditorTools.MuseumAutomation.Update () [0x000bd] in D:\workplace\Unity Projects\demo - 副本\Assets\HarbourMuseum\Editor\MuseumAutomation.cs:29 

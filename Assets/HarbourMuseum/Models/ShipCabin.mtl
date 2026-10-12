@@ -1,0 +1,37 @@
+# Material colours for original teaching models
+newmtl Gallery_Oak
+Kd 0.43 0.245 0.105
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Gallery_Iron
+Kd 0.045 0.055 0.065
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Gallery_Navy
+Kd 0.035 0.105 0.15
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Gallery_Brass
+Kd 0.76 0.51 0.21
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Gallery_Window
+Kd 0.23 0.52 0.61
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
+newmtl Gallery_Ivory
+Kd 0.89 0.86 0.72
+Ks 0.22 0.22 0.22
+Ns 32
+d 1
+
